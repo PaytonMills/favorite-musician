@@ -1,3 +1,8 @@
+html {
+  min-height: 100vh; /* ensures that the background covers entire viewport */
+  background: rgba(191, 191, 191, 1);
+}
+
 body {
   margin: 0;
   font-family: "Gill Sans", Tahoma, Geneva, Verdana, sans-serif;
